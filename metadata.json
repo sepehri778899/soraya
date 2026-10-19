@@ -1,0 +1,6 @@
+{
+  "name": "سمت ثریا",
+  "description": "سامانه سمت ثریا: جهت‌گیری به سوی تعالی - شناسایی استعدادها و نیروها، نیازمندی‌ها و توانمندی‌ها، شناسایی مربیان و بانک سرفصل‌های آموزشی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
